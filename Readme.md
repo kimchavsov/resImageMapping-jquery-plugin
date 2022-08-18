@@ -8,4 +8,4 @@
 
 
 Copyright (c) 2022 Kimchav
-Licensed under the MIT license *(see [LICENSE]() for details)* 
+Licensed under the MIT license *(see [LICENSE](https://github.com/kimchavsov/resImageMapping-jquery-plugin/blob/main/LICENSE) for details)* 
